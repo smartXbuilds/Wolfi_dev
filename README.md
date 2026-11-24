@@ -1,4 +1,4 @@
-# Wolfi_dev
+7# Wolfi_dev
 **Dashboard**
 ## 🛠️ Womit ich baue
 - Self-Hosting: [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -9,7 +9,7 @@
 
 ## Hardwareplattform
 
-[NANOPI Neo2](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO2)
+[NanoPi Neo2](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO2)
 
 # Betriebssystem
 [Dietpi](https://dietpi.com/)
