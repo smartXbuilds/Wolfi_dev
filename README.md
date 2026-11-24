@@ -5,3 +5,12 @@
 - UI: [MudBlazor](https://github.com/MudBlazor/MudBlazor)
 - Web: [Blazor / ASP.NET Core](https://github.com/dotnet/aspnetcore)
 - Plattform: [.NET](https://github.com/dotnet)
+
+
+## Hardwareplattform
+
+[NANOPI Neo2](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO2)
+
+# Betriebssystem
+[Dietpi](https://dietpi.com/)
+
