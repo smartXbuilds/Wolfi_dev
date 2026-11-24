@@ -11,6 +11,6 @@
 
 [NanoPi Neo2](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO2)
 
-# Betriebssystem
+## Betriebssystem
 [Dietpi](https://dietpi.com/)
 
